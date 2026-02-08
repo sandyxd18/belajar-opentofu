@@ -1,4 +1,4 @@
-# 📘 Learning OpenTofu
+# 📘 Belajar OpenTofu
 
 **OpenTofu** is an open-source *Infrastructure as Code (IaC)* tool and a community-driven fork of **Terraform**, created after Terraform was acquired by HashiCorp.
 
