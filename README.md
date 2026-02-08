@@ -35,3 +35,9 @@ By the end of this learning track, you should be able to:
 - Write OpenTofu configurations from scratch
 - Manage infrastructure using modular design
 - Build maintainable and reusable IaC configurations
+
+## 📚 References
+
+- [DevOps with Dian Youtube Channel](https://youtube.com/@rahadiangg?si=sS2qxvtPWOafSCtE)
+- [OpenTofu Documentation](https://opentofu.org/docs/)
+- [Terraform Provider Registry](https://registry.terraform.io/browse/providers/)
